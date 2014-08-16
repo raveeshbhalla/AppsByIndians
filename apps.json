@@ -1,0 +1,50 @@
+{"posts":[
+  {
+    "Date":"04/14/2014",
+    "Name":"PlusTXT",
+    "Text":"·Allows you to text in 8 different Indian languages\n·Typing done through transliteration",
+    "Package":"com.plustxt"
+  },
+  {
+    "Date":"04/21/2014",
+    "Name":"Skyro (formerly Sky Recorder)",
+    "Text":"·Beautifully designed voice recorder app\n·Allows you to sync all your recordings to Dropbox\n·Upload and share them via Soundcloud as well as\n·Search through them with tags, locations and dates.",
+    "Package":"com.triveous.recorder"
+  },
+  {
+    "Date":"04/29/2014",
+    "Name":"Paperboy",
+    "Text":"·Search for non·pro users\n·Great Visuals\n·Highly customizable\n·Love the magazine mode",
+    "Package":"com.dottedcircle.paperboy"
+  },
+  {
+    "Date":"05/02/2014",
+    "Name":"India Against Spam",
+    "Text":"·Quickly send complaints to TRAI for spam calls/texts\n·OK·ish UI\n·It works",
+    "Package":"com.deepakj.smspam"
+  },
+  {
+    "Date":"05/13/2014",
+    "Name":"2048",
+    "Text":"·Clean design\n·No ads\n·Google Play Games integration\n·Developed by a schoolboy",
+    "Package":"in.net.shreyas.game2048"
+  },
+  {
+    "Date":"05/19/2014",
+    "Name":"Dialapp",
+    "Text":"·Attractive UI not to dissimilar from KitKat dialer\n·Themes\n·Great experience when it works well",
+    "Package":"com.dexetra.dialer"
+  },
+  {
+    "Date":"05/27/2014",
+    "Name":"Perfect My English",
+    "Text":"· Quick fix for common grammatical mistakes\n· Focus on tests instead of theory",
+    "Package":"com.perfectMyEnglish"
+  },
+  {
+    "Date":"05/30/2014",
+    "Name":"Low Price",
+    "Text":"· Finds you the cheapest website to find a book\n· Search by title or barcode\n· Polished design",
+    "Package":"com.binarybricks.lowprice"
+  }
+]}
