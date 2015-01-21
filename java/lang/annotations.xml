@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Long'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>

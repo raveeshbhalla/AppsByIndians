@@ -106,8 +106,10 @@ public class MainActivity extends Activity {
          * To see stored data, we'll remove the above request and instead get an App from the database
          */
         Cursor c = AppsTable.getAllApps();
-        c.moveToFirst();
-        String name = c.getString(c.getColumnIndex(AppsTable.NAME));
-        mTextView.setText(name);
+        if (c.getCount()>0) {
+            c.moveToFirst();
+            String name = c.getString(c.getColumnIndex(AppsTable.NAME));
+            mTextView.setText(name);
+        }
     }
 }
